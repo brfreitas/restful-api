@@ -1,0 +1,5 @@
+{
+  "PrivateKeyPath": "/home/brfreitas/Dropbox/dev-lnx/go/src/github.com/brfreitas/restful-api/settings/keys/private_key",
+  "PublicKeyPath": "/home/brfreitas/Dropbox/dev-lnx/go/src/github.com/brfreitas/restful-api/settings/keys/public_key.pub",
+  "JWTExpirationDelta": 72
+}
